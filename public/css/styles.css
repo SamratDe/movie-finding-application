@@ -1,0 +1,37 @@
+.container {
+    color: #333333;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px auto;
+    padding: 20px 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 60px;
+}
+
+a {
+    color: #4d07f3;
+    margin-right: 18px;
+    text-decoration: none;
+}
+
+.btn {
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+#outer {
+    margin-top: 150px;
+    padding: 30px;
+    border: 3px solid rgb(223, 9, 45);
+    display: none;
+    background-color: #d6e6eb;
+}
+
+#result p {
+    font-size: 25px;
+    color: #280247;
+    font-weight: bold;
+}
